@@ -1,0 +1,10 @@
+ApkFile = /********* Installation started of Compassion Apk file *********/
+LoginCompassion =/********* Successfully Installed Compassion Apk file *********/
+OnHomePage = /********* Successfully Login Compassion and Land on Home Page *********/
+
+
+
+//Load Properties file
+		    FileInputStream Pfile = new FileInputStream("C:\\Users\\ABC\\eclipse-workspace\\New folder\\Appium_Test\\MyC_Properties\\Properties_File1");
+		    file = new Properties();
+		    file.load(Pfile);
